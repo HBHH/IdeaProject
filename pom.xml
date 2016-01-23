@@ -5,13 +5,14 @@
  
     <modelVersion>4.0.0</modelVersion>
  
-    <groupId>mcl6.0</groupId>
-    <artifactId>mcl6.0</artifactId>
+    <groupId>IdeaProject</groupId>
+    <artifactId>IdeaProject</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
- 
+
+    <!--
     <modules>
         <module>mcl</module>
     </modules>
- 
+     -->
 </project>
